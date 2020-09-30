@@ -7,7 +7,7 @@
 public class FindIfThePairWithGivenSum {
 
 	public static void main(String arg[]) {
-		int[] values = new int[] { 2, 3, 4, 8, 9 };
+		int[] values = { 2, 3, 4, 8, 9 };
 		int sum = 10;
 		System.out.println(isTherePairWithSum(values, sum, 4));
 	}

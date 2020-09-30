@@ -2,7 +2,7 @@
 public class FindTheRotationCount {
 
 	public static void main(String args[]) {
-		int[] values = new int[] { 7, 9, 11, 12, 15};
+		int[] values = { 7, 9, 11, 12, 15};
 		System.out.println(getRotations(values));
 	}
 
